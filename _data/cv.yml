@@ -1,0 +1,39 @@
+cv:
+  name: Toby Chong
+  label: Principal Researcher, TOEI Zukun Research
+  email: tob_chong@toei.ac.jp
+  summary: Researcher in character facial animation, capture, virtual try-on, and human-computer interaction.
+  social_networks:
+    - network: GitHub
+      username: tobyclh
+    - network: LinkedIn
+      username: tobychong
+    - network: X
+      username: tobyclh
+  sections:
+    Experience:
+      - company: TOEI Zukun Research
+        position: Principal Researcher
+        summary: Research and production work on stylized, production-ready character facial animation, facial capture and animation services, and light-stage-based 3D scanning.
+    Education:
+      - institution: University of Tokyo
+        area: Creative Informatics
+        studyType: PhD
+        start_date: 2021
+        end_date: 2025
+        highlights:
+          - Supervised by Takeo Igarashi.
+      - institution: University of Tokyo
+        area: Creative Informatics
+        studyType: MSc
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - Supervised by Takeo Igarashi.
+      - institution: University of Tokyo
+        area: Electronic and Electrical Engineering
+        studyType: BEng
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - Final-year research supervised by Koji Yatani on in-situ haptic feedback for presentations.
