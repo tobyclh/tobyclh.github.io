@@ -9,6 +9,8 @@ nav_order: 2
 
 ## TOEI FCS
 
+![TOEI FCS interface](/assets/img/publication_preview/toei-fcs.jpg){: width="420" }
+
 Facial tracking and retargeting software for motion-capture studios. [Website](https://www.fcs.zukun-lab.com/).
 
 ## Xpression
